@@ -1,0 +1,10 @@
+{
+    "values": [
+        "air",
+        "cave_air",
+        "snow",
+        "grass",
+        "#flowers",
+        "#saplings"
+    ]
+}

@@ -1,0 +1,1 @@
+execute as @a[gamemode=survival,distance=..100,limit=1,sort=random] at @s run function youfools:attacks/clone_spawn
